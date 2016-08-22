@@ -1,0 +1,1 @@
+Sample app for Red Hat OpenShift using a Dockerfile and WAR file
