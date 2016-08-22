@@ -1,1 +1,1 @@
-Sample app for Red Hat OpenShift using a Dockerfile and WAR file
+Sample Hello World Java app for Red Hat OpenShift using a Dockerfile and a WAR file
